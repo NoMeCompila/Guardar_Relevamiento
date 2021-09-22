@@ -1,0 +1,56 @@
+=Relevamiento - Fecha: 2021-07-29 16:46:07.537049=
+
+====================Nombre PC=====================
+Nombre de la PC: DESKTOP-A920KM3
+
+==================Informacion IP==================
+IP privada: 192.168.56.1
+IP publica: 181.15.193.66
+
+
+=====================SISTEMA======================
+Arquitectura y SO: ('64bit', 'WindowsPE')
+Version: 10
+
+
+=====================Hardware=====================
+Tipo de maquina: AMD64
+Procesador: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+cores fisicos: 2
+cores totales: 4
+
+===================Memoria RAM====================
+
+Memoria RAM  total: 3.88GB
+Memoria RAM usada: 3.36GB
+Memoria RAM disponible: 530.08MB
+Porcentage de memoria ram usado: 86.6%
+estado: estable
+
+
+=================Memoria en Disco=================
+=== Disco Local: C:\ ===
+Punto de montaje: C:\
+File system type: NTFS
+Espacio total en disco: 292.35GB
+Espacio usado en disco: 130.60GB
+Espacio libre en disco: 161.75GB
+Procentage de espacio utilizado: 44.7%
+
+estado: optimo
+--------------------------------------------------
+=== Disco Local: D:\ ===
+Punto de montaje: D:\
+File system type: NTFS
+Espacio total en disco: 638.54GB
+Espacio usado en disco: 32.80GB
+Espacio libre en disco: 605.74GB
+Procentage de espacio utilizado: 5.1%
+
+estado: optimo
+--------------------------------------------------
+=== Disco Local: E:\ ===
+Punto de montaje: E:\
+File system type: 
+=====================AnyDesk======================
+Anydesk Instalado || 771757238  
